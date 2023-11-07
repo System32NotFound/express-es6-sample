@@ -51,4 +51,4 @@
     "watch:dev": "nodemon",
     "test": "jest"
   }
-
+}
